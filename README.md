@@ -14,6 +14,16 @@ This repository contains remote sensing papers on top conference from 2022 to 20
 
 
 ### 2025
+- [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32388/34543) ZoRI: Towards Discriminative Zero-Shot Remote Sensing Instance Segmentation 
+- [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32672/34827) Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community 
+- [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32683/34838) VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis 
+- [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32701/34856) Dive into Aerial Remote Sensing Underwater Depth Estimation with Hyperspectral Imagery 
+- [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32704/34859) PhysDiff: Physiology-based Dynamicity Disentangled Diffusion Model for Remote Physiological Measurement 
+- [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32731/34886) In2NeCT: Inter-class and Intra-class Neural Collapse Tuning for Semantic Segmentation of Imbalanced Remote Sensing Images 
+- [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33022/35177) Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation 
+- [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33048/35203) OTPNet: ODE-inspired Tuning-free Proximal Network for Remote Sensing Image Fusion 
+- [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33730/35885) SemStereo: Semantic-Constrained Stereo Matching Network for Remote Sensing 
+- [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33861/36016) Structure-Adaptive Multi-View Graph Clustering for Remote Sensing Data 
 - [CVPR 2025](https://arxiv.org/abs/2411.15497) AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation 
 - [CVPR 2025](https://arxiv.org/abs/2503.23717) Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space 
 - [CVPR 2025](https://arxiv.org/abs/2503.13214) A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening 
@@ -28,6 +38,9 @@ This repository contains remote sensing papers on top conference from 2022 to 20
 
 
 ### 2024
+- [AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28357/28699) EarthVQA: Towards Queryable Earth via Relational Reasoning-Based Remote Sensing Visual Question Answering 
+- [AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28393/28768) SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing 
+- [AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/29391/30627) LDS2AE: Local Diffusion Shared-Specific Autoencoder for Multimodal Remote Sensing Image Classification with Arbitrary Missing Modalities 
 - [CVPR 2024](https://arxiv.org/pdf/2404.07543) Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening 
 - [CVPR 2024](https://arxiv.org/abs/2404.04823) 3D Building Reconstruction from Monocular Remote Sensing Images with Multi-level Supervisions 
 - [CVPR 2024](https://arxiv.org/abs/2312.12470) Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation 
@@ -52,6 +65,8 @@ This repository contains remote sensing papers on top conference from 2022 to 20
 
 
 ### 2023
+- [AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25473/25245) Style-Content Metric Learning for Multidomain Remote Sensing Object Recognition 
+- [AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25563/25335) Anomaly Segmentation for High-Resolution Remote Sensing Images Based on Pixel Descriptors 
 - [CVPR 2023](https://ieeexplore.ieee.org/document/10203827) TopDiG: Class-Agnostic Topological Directional Graph Extraction From Remote Sensing Images 
 - [ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Seeing_Beyond_the_Patch_Scale-Adaptive_Semantic_Segmentation_of_High-resolution_Remote_ICCV_2023_paper.pdf) Seeing Beyond the Patch: Scale-Adaptive Semantic Segmentation of High-resolution Remote Sensing Imagery based on Reinforcement Learning 
 - [ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Bastani_SatlasPretrain_A_Large-Scale_Dataset_for_Remote_Sensing_Image_Understanding_ICCV_2023_paper.pdf) SatlasPretrain: A Large-Scale Dataset for Remote Sensing Image Understanding 
